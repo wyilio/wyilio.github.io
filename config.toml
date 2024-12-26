@@ -1,0 +1,27 @@
+# The URL the site will be built for
+base_url = "https://www.wyilio.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+build_search_index = true
+
+title = "Wyilio"
+description = "Wyilio's Blog"
+
+taxonomies = [
+    {name = "tags", rss = true},
+    {name = "categories", rss = true},
+]
+
+[markdown]
+highlight_code = true
+highlight_theme = "gruvbox-dark"
+
+
+[extra]
+date_format="%e %B %Y"
+menu_links = [
+    { url = "$BASE_URL/about/", name = "About" },
+    { url = "$BASE_URL/tags/", name = "Tags" },
+]
