@@ -1,12 +1,12 @@
 # The URL the site will be built for
-base_url = "https://wyilio.com"
+base_url = "https://www.wyilio.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 build_search_index = true
 
-title = "wyilio"
+title = "Wyilio"
 description = "Wyilio's Blog"
 
 taxonomies = [
