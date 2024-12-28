@@ -56,4 +56,6 @@ I enjoy reading in my spare time. Here's a reading list starting from my first y
 **The Family Chao**, Lan Samantha Chang \
 **The Vintage Bradbury**, Ray Bradbury \
 **The Path to Power: The Years of Lyndon Johnson I**, Robert A. Caro \
+**The Little Prince**, Antoine de Saint-Exupéry \
 **Welcome to the Monkey House**, Kurt Vonnegut \
+**The Old Man and the Sea**, Ernest Hemingway
