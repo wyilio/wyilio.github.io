@@ -58,4 +58,7 @@ I enjoy reading in my spare time. Here's a reading list starting from my first y
 **The Path to Power: The Years of Lyndon Johnson I**, Robert A. Caro \
 **The Little Prince**, Antoine de Saint-Exupéry \
 **Welcome to the Monkey House**, Kurt Vonnegut \
-**The Old Man and the Sea**, Ernest Hemingway
+**The Old Man and the Sea**, Ernest Hemingway \
+**Zen and the Art of Motorcycle Maintenance**, Robert M. Pirsig \
+**The Nvidia Way**, Tae Kim
+
