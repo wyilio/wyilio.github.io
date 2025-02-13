@@ -9,9 +9,13 @@ build_search_index = true
 title = "Wyilio"
 description = "Wyilio's Blog"
 
+default_language = "en"
+
+generate_feeds = true
+feed_filenames=["atom.xml", "rss.xml"]
+
 taxonomies = [
-    {name = "tags", rss = true},
-    {name = "categories", rss = true},
+    {name = "tags"}
 ]
 
 [markdown]
@@ -23,5 +27,4 @@ highlight_theme = "gruvbox-dark"
 date_format="%e %B %Y"
 menu_links = [
     { url = "$BASE_URL/about/", name = "About" },
-    { url = "$BASE_URL/tags/", name = "Tags" },
 ]
