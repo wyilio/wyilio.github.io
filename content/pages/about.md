@@ -60,6 +60,6 @@ I enjoy reading in my spare time. Here's a reading list starting from my first y
 **Welcome to the Monkey House**, Kurt Vonnegut \
 **The Old Man and the Sea**, Ernest Hemingway \
 **Zen and the Art of Motorcycle Maintenance**, Robert M. Pirsig \
-**The Nvidia Way**, Tae Kim \ 
+**The Nvidia Way**, Tae Kim \
 **American Prometheus**, Kai Bird and Martin J. Sherwin
 
