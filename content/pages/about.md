@@ -3,7 +3,7 @@ title = "About"
 path = "about"
 +++
 
-Greetings Traveler! Welcome to my digital abode. Feel free to peruse while I fix you up a glass.
+Welcome to my site! Currently WIP. This page currently stores some of the stuff I've enjoyed over the years.
 
 ### Books
 
