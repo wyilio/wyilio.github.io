@@ -61,5 +61,8 @@ I enjoy reading in my spare time. Here's a reading list starting from my first y
 **The Old Man and the Sea**, Ernest Hemingway \
 **Zen and the Art of Motorcycle Maintenance**, Robert M. Pirsig \
 **The Nvidia Way**, Tae Kim \
-**American Prometheus**, Kai Bird and Martin J. Sherwin
+**American Prometheus**, Kai Bird and Martin J. Sherwin \
+**Sophie's World**, Jostein Gaarder \
+**Breakfast of Champions**, Kurt Vonnegut \
+**Means of Ascent: The Years of Lyndon Johnson II**, Robert A. Caro (Worth reading solely for Coke Stevenson's story)
 
