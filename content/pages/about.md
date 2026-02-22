@@ -64,5 +64,7 @@ I enjoy reading in my spare time. Here's a reading list starting from my first y
 **American Prometheus**, Kai Bird and Martin J. Sherwin \
 **Sophie's World**, Jostein Gaarder \
 **Breakfast of Champions**, Kurt Vonnegut \
-**Means of Ascent: The Years of Lyndon Johnson II**, Robert A. Caro (Worth reading solely for Coke Stevenson's story)
-
+**Means of Ascent: The Years of Lyndon Johnson II**, Robert A. Caro (Worth reading solely for Coke Stevenson's story) \
+**Mindstorms**, Seymour Papert
+- A radical take on how we might design better learning systems with computers as a medium for thought
+- Although written decades ago, we've got a long way to go before we fully realize Papert's ideas
