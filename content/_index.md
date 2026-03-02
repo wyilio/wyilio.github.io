@@ -3,7 +3,9 @@ sort_by = "date"
 paginate_by = 10
 +++
 
-Welcome to my site! Currently WIP. This page currently stores some of the stuff I've enjoyed over the years.
+Welcome to my site! I'm a software engineer based in New York.
+
+I'm currently interested in software interfaces for learning.
 
 ### Books
 
