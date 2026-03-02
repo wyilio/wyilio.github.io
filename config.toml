@@ -24,6 +24,4 @@ smart_punctuation = false
 
 [extra]
 date_format="%e %B %Y"
-menu_links = [
-    { url = "$BASE_URL/about/", name = "About" },
-]
+menu_links = []
