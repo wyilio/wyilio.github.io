@@ -71,4 +71,6 @@ I enjoy reading in my spare time. Here's a reading list starting from my first y
 - A radical take on how we might design better learning systems with computers as a medium for thought
 - Although written decades ago, we've got a long way to go before we fully realize Papert's ideas
 
-**The Handmaid's Tale**,  Margaret Atwood
+**The Handmaid's Tale**,  Margaret Atwood \
+**Valve's Handbook for New Employees**, Valve Software
+- Aspiring to be a T-shaped heavy. Valve [cabals](https://www.gamedeveloper.com/design/the-cabal-valve-s-design-process-for-creating-i-half-life-i-) are interesting too
