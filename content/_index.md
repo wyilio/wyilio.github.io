@@ -75,4 +75,5 @@ I enjoy reading in my spare time. Here's a reading list starting from my first y
 **Valve's Handbook for New Employees**, Valve Software
 - Aspiring to be a T-shaped heavy. Valve [cabals](https://www.gamedeveloper.com/design/the-cabal-valve-s-design-process-for-creating-i-half-life-i-) are interesting too
 
-**Tuesdays with Morrie**, Mitch Albom
+**Tuesdays with Morrie**, Mitch Albom \
+**Master of the Senate**, Robert A. Caro
