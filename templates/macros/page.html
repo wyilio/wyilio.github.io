@@ -1,4 +1,4 @@
-{% macro page_info(page) %}
+{% component page_info(page, config) %}
     <div class="article-info">
         {% if page.date %}
         <div class="article-date">{{ page.date | date(format=config.extra.date_format) }}</div>
@@ -7,22 +7,22 @@
             {% if page.taxonomies.categories %}
                 <ul class="article-categories">
                     {% for cat in page.taxonomies.categories %}
-                    <li><a href="{{ get_taxonomy_url(kind="categories", name=cat) | safe }}">{{ cat }}</a></li>
+                    <li><a href="{{ get_taxonomy_url(kind="categories", term=cat) | safe }}">{{ cat }}</a></li>
                     {% endfor %}
                 </ul>
             {% endif %}
             {% if page.taxonomies.tags %}
                 <ul class="article-tags">
                     {% for tag in page.taxonomies.tags %}
-                    <li><a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}">#{{ tag }}</a></li>
+                    <li><a href="{{ get_taxonomy_url(kind="tags", term=tag) | safe }}">#{{ tag }}</a></li>
                     {% endfor %}
                 </ul>
             {% endif %}
         </div>
     </div>
-{% endmacro page_info %}
+{% endcomponent page_info %}
 
-{% macro page_listing(page) %}
+{% component page_listing(page, config) %}
     <article class="post-list">
         <header> 
             <h1>
@@ -36,11 +36,11 @@
         </div>
         {% endif %}
         
-        {{ self::page_info(page=page) }}
+        {{ <page_info page={page} config={config} /> }}
     </article>
-{% endmacro page_listing %}
+{% endcomponent page_listing %}
 
-{% macro page_pagination(paginator) %}
+{% component page_pagination(paginator) %}
     <div class="pagination">
         <div class="left pagination-item {% if not paginator.previous %}disabled{% endif %}">
             {% if paginator.previous %}
@@ -53,4 +53,4 @@
             {% endif %}
         </div>
     </div>
-{% endmacro page_pagination %}
+{% endcomponent page_pagination %}
