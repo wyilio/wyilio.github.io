@@ -76,4 +76,9 @@ I enjoy reading in my spare time. Here's a reading list starting from my first y
 - Aspiring to be a T-shaped heavy. Valve [cabals](https://www.gamedeveloper.com/design/the-cabal-valve-s-design-process-for-creating-i-half-life-i-) are interesting too
 
 **Tuesdays with Morrie**, Mitch Albom \
-**Master of the Senate**, Robert A. Caro
+**Master of the Senate**, Robert A. Caro \
+**Pan**, Michael W. Clune \
+**Gamelife: A Memoir**, Michael W. Clune \
+**The Uncool**, Cameron Crowe \
+**White Out: The Secret Life of Heroin**, Michael W. Clune
+- enchanting, sobering
